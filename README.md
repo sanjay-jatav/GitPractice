@@ -1,0 +1,4 @@
+- I am create readme file
+- i do git add to stage the file
+- i do git commit to save the changes
+-  I do push my project
