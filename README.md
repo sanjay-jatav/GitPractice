@@ -1,4 +1,7 @@
 - I am create readme file
 - i do git add to stage the file
 - i do git commit to save the changes
+- I create index.html and index.js file for this project
+- index.html contains simple html template
+- index.js contains hellUser Method
 -  I do push my project
